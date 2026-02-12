@@ -13,12 +13,12 @@
 const firebaseConfig = {
     // TODO: 替换为你自己的 Firebase 配置
     // 从 Firebase Console → 项目设置 → 常规 → 你的应用 → SDK 配置
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyCuItpeQeT1AFiFosGyOMlRQtt1ljazIIU",
+    authDomain: "symposium.firebaseapp.com",
+    projectId: "symposium",
+    storageBucket: "symposium.appspot.com",
+    messagingSenderId: "123456789",
+    appId: "1:123456789:web:abcdef123456"
 };
 
 // ========================================
