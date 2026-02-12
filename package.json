@@ -1,0 +1,18 @@
+{
+  "name": "private-symposium",
+  "version": "2.0.0",
+  "description": "The Private Symposium - AI Philosophy Counselors",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.0"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
